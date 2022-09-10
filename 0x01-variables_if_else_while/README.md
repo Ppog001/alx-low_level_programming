@@ -1,1 +1,1 @@
-A program to check the nature of a number
+a program that prints the alphabet in lowercase
