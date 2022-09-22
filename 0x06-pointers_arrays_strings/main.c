@@ -11,7 +11,7 @@ int main(void)
 	char s[] = "Doing Hard Things!\n";
 	char *p;
 
-	p = string_toupper(s);
+	p = leet(s);
 	printf("%s", p);
 	printf("%s", s);
 	return (0);
